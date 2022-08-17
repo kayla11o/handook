@@ -42,6 +42,10 @@ We encourage you to take part in verb’s direct deposit plan. It makes getting 
 
 ## paid time off
 
+We know our workers do their best work when you have the ability to take a break as you need it, or tend to needs in your life as they arise. To that end, our Time Off policy is designed to be as flexible and accommodating as possible so that when you're at work, you're able to fully focus and do you best work.
+
+Whenever you are out of the office for non-work-related reasons, you must notify your operations and project manager in advance that you will be out of the office, and you must enter the times of your absence into our [human resources software](https://app.bamboohr.com/login/).
+
 ### vacation time
 
 Full time employees are eligible for forteen (14) days of paid vacation leave per year. Effective the 1st of the month following one month of employment. Your vacation time does not roll over year to year. If you are terminated or resign from the verb with vacation days in your bank, you will be paid the monetary equivalent for those unused days based on your salary.  Paid time off is additional to sick days, bank holidays, and days that the company does not operate in which all of #teamverb (including contractors) are entitled to. The annual holiday calendar may be subject to change. 
@@ -62,6 +66,9 @@ Listed here are the 2022 Paid Verb Holidays:
 - December 26 - Christmas Day (observed) 
 - December 26-31 - Verb Holiday Break (Office Closed)
 
+#### how to take vacation time
+- Request time off from your manager and give plenty of notice. If you plan to be on a long vacation we please ask that you provide a few weeks notice so that we can adjust project timelines accordingly. 
+- Record your time off in our [human resources software](https://app.bamboohr.com/login/).
 
 ### sick time
 
@@ -69,10 +76,10 @@ We don’t offer a bank of sick days nor do we ask you to track your sick days o
 
 Your operations manager will check in with you if you’re consistently taking 3+ unplanned sick days per month. If you have a medical condition you know will take you away from work regularly, please work with your ops manager for accommodations.
 
+#### How to take a sick day
 
-### disclaimer on scheduling time Off
-
-to be inserted here in regards to the length of time required for putting in OOO time and suchity such.
+- Let your team know that you won’t be in that day and note your status in Slack.
+- Request the day in our [human resources software](https://app.bamboohr.com/login/).
 
 ## family leave
 
