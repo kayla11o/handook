@@ -1,13 +1,14 @@
-# Where We Work
+# where we work
 
-## From home
+## from home
 
-Most people at Basecamp work from home most of the time. You can spend up to $1,000 every three years outfitting your home office. Getting the basics right will make a big difference: a good chair and a good desk.
+The majority of team verb work from home most as we are a remote company. You will find most of us either in LA or NY but we have others sprinkled across the states such as NC, GA, and TX. For full time employees, you have a $500 one-time credit to use before end of this fiscal year to cover any needs for a home office.  Getting the basics right will make a big difference: a good chair and a good desk.
 
-## From coffee shops
+## from coffee shops
 
-Working from home all the time isn’t everyone’s cup of coffee. Thus, in the pre-COVID-19 and likely post-COVID-19 vaccine era, lots of us choose to work from coffee shops or other third spaces either some of the time or a lot of the time. Great for a buzz of other people and much-needed [caffeine](https://giphy.com/gifs/bobs-burgers-fox-bobs-burgers-tv-3o72F3CQSLwU7XTlDy) of course, but please do mind our [basic security rules](https://3.basecamp.com/2914079/buckets/34/documents/14419) and procedures to ensure that nothing leaks on to the cafe wifi.
+Working from home all the time isn’t everyone’s cup of coffee. Thus, in the pre-COVID-19 and likely post-COVID-19 vaccine era, lots of us choose to work from coffee shops or other third spaces either some of the time or a lot of the time. Great for a buzz of other people and much-needed caffeine. 
 
-## From a coworking space
+## from onsite projects 
 
-If working from home or from a coffee shop doesn’t suit you, then trying a coworking space might just do the trick. Basecamp offers a $200/month stipend towards a desk in such a place.
+Several of our projects require part of our team to work onsite. This can be anywhere from Paris, France to Salem, Massachusets.
+
