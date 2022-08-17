@@ -1,7 +1,5 @@
 # what we believe
 
-## values
-
 Before anything else, values come first. Without clear, shared values, we wander independently and contradict one another. Everything’s harder when we all believe different things about what’s important to *us*, our company.
 
 Key values:
