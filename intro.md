@@ -15,7 +15,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 ## Sections
 
 * [what we believe](https://github.com/kayla11o/handook/blob/master/what-we-believe.md)
-* [What Influenced Us](https://github.com/basecamp/handbook/blob/master/what-influenced-us.md)
+* [our commitment](https://github.com/kayla11o/handook/blob/master/our-commitment.md)
 * [Vocabulary](https://github.com/basecamp/handbook/blob/master/vocabulary.md)
 * [Product Histories](https://github.com/basecamp/handbook/blob/master/product-histories.md)
 * [Where We Work](https://github.com/basecamp/handbook/blob/master/where-we-work.md)
