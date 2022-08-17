@@ -1,8 +1,8 @@
-# Making A Career
+# making a career
 
-## Your First 90 Days
+## your first 90 days
 
-Congratulations! You’re a Basecamper!
+Congratulations! You’re a part of #teamverb!
 
 In your first 90 days, you’ll be getting aligned with your manager on approach and expectations. You’ll get up and running, do real work, in real circumstances, with real coworkers, for long periods of time. It’s your manager’s responsibility to give you proper opportunities to demonstrate your skills and fit for the job. This includes your technical expertise, your engagement with coworkers, and your ability to take feedback and adapt to the Basecamp culture. Similarly, it’s on you to take advantage of those opportunities, and to show that you’re capable of meeting the team standards.
 
