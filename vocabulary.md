@@ -20,5 +20,6 @@ the sequence, process, or flow to complete a task or project.
 ## the dailies 
 bi-weekly review meetings allow other team members to provide feedback or brainstorm additional ideas/insight to strengthen the cohort’s initial concepts
 
-
+## ros
+run of show
 
