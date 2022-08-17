@@ -18,7 +18,7 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [our commitment](https://github.com/kayla11o/handook/blob/master/our-commitment.md)
 * [vocabulary](https://github.com/kayla11o/handook/blob/master/vocabulary.md)
 * [where we work](https://github.com/kayla11o/handook/blob/master/where-we-work.md)
-* [Benefits & Perks](https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md)
+* [benefits & perks](https://github.com/kayla11o/handook/blob/master/benefits-and-perks.md)
 * [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
 * [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
 * [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
