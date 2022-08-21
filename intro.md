@@ -1,4 +1,4 @@
-[Read on basecamp.com](https://basecamp.com/handbook)
+
 
 # verb employee handbook
 
@@ -26,4 +26,4 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
 * [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
-* [FAQ](https://github.com/basecamp/handbook/blob/master/faq.md)
+
