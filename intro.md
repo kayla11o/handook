@@ -25,5 +25,12 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md) -- Is this something we want?
 * [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md) -- In progress
 * [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md) -- Is this something we want??
-* [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
+* [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md) -- change to travel policy
+
+TO Add:
+Performance plan & peer review
+Verb levels [support, contributor, strategy, lead]
+org/job descriptions
+Corporate card policy
+
 
