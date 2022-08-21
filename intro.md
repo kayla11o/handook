@@ -19,11 +19,11 @@ If you’re reading this just after joining the company, it’s particularly on 
 * [vocabulary](https://github.com/kayla11o/handook/blob/master/vocabulary.md)
 * [where we work](https://github.com/kayla11o/handook/blob/master/where-we-work.md)
 * [benefits & perks](https://github.com/kayla11o/handook/blob/master/benefits-and-perks.md)
-* [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md)
-* [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)
-* [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md)
-* [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md)
-* [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md)
-* [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md)
+* [Getting Started](https://github.com/basecamp/handbook/blob/master/getting-started.md) -- In progress
+* [How We Work](https://github.com/basecamp/handbook/blob/master/how-we-work.md)  -- Need PST/6 phase approach more complete
+* [Our Rituals](https://github.com/basecamp/handbook/blob/master/our-rituals.md) -- TBD, would love to list out our meetups, all hands, etc here
+* [Making a Career](https://github.com/basecamp/handbook/blob/master/making-a-career.md) -- Is this something we want?
+* [Our Internal Systems](https://github.com/basecamp/handbook/blob/master/our-internal-systems.md) -- In progress
+* [A Note About Moonlighting](https://github.com/basecamp/handbook/blob/master/moonlighting.md) -- Is this something we want??
 * [International Travel Guide](https://github.com/basecamp/handbook/blob/master/international-travel-guide.md)
 
